@@ -5,3 +5,6 @@ Este proyecto es la plantilla base con la todos los alumnos del trayecto de form
 ## Consigna 📄
 
 El enunciado del trabajo final se encuentra disponible en el aula virtual. La lista de los grupos se encontrará disponible luego de que el formulario sea completado.
+
+### GitHub Pages 🌐
+https://josemartinez1mojojo7.github.io/devtech-podcast-web/
